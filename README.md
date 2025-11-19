@@ -105,16 +105,6 @@ Code Push → Build → Test → Security Scan → Deploy → Health Check
 - Manual or automated approval gates.
 
 ---
-
-# 📁 Repository Structure
-```
-repo/
- ├── README.md
- ├── architecture.pdf
- ├── diagrams/
- │    └── system-architecture.drawio
-```
-
 ---
 
 # ✅ Summary
